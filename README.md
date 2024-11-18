@@ -41,8 +41,9 @@ A python script to scrapped malaysian magic the gathering price data from Classr
 
 [(Back to top)](#table-of-contents)
 
-Man pages have been added. Checkout `man colorls`.
-
+```py
+api coming soon
+```
 
 # 📦 Installation - Set Up Your Magic! 🧙‍♀️
 
@@ -56,13 +57,6 @@ Once you have Python installed, you can clone the repository and install the req
 pip install -r requirements.txt
 ```
 
-
-# 📦 Usage - Set Up Your Magic! 🧙‍♀️
-[(Back to top)](#table-of-contents)
-
-```py
-api coming soon
-```
 
 # 💪 Contribute - help the project
 [(Back to top)](#table-of-contents)
